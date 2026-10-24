@@ -2,7 +2,7 @@
 
 A static site deployed to Azure Static Web Apps (Free plan) with automatic CI/CD from GitHub Actions.
 
-**Live site:** https://black-sand-0f775890f.3.azurestaticapps.net
+**Live site:** torn down after testing to avoid unnecessary cloud resources
 
 ## Architecture
 
